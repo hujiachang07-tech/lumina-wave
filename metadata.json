@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Weave",
+  "description": "An ethereal light loom where you pluck strings of light to weave virtual brocade, featuring poetic interpretation by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
